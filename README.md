@@ -37,7 +37,7 @@
      🚀 Decision Making
  (Improve Marketing & Production)
 
- # Beautiful Dashboard Layout Idea (Slide Visual Structure)
+ # Beautiful Dashboard Layout Idea
  
   ---------------------------------------------------
 | 🧸 ToyCraft Tales Dashboard                     |
@@ -49,7 +49,7 @@
 | 🎛️ Filters: Year | Region | Category            |
  ---------------------------------------------------
 
- # Attractive Concept Diagram (More Stylish Version)
+ # Attractive Concept Diagram
 
                   📦 RAW DATA
                     │
